@@ -6,10 +6,10 @@ repo: uptime.geoconnex.us
 sites:
   - name: Geoconnex Persistent Identifier Service
     url: https://pids.geoconnex.us
-    favicon: https://yourls.org/assets/images/favicon.svg
+    icon: https://yourls.org/assets/images/favicon.svg
   - name: Geoconnex Reference Feature Service
     url: https://reference.geoconnex.us/collections
-    favicon: https://pygeoapi.io/favicon.ico
+    icon: https://pygeoapi.io/favicon.ico
   - name: Geoconnex Knowledge Graph
     url: https://graph.geoconnex.us
     method: POST
