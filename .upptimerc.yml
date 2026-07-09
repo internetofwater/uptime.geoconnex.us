@@ -7,17 +7,28 @@ sites:
   - name: Geoconnex Persistent Identifier Service
     url: https://pids.geoconnex.us
   - name: Geoconnex Reference Feature Service
-    url: https://reference.geoconnex.us
+    url: https://reference.geoconnex.us/collections
+  - name: Geoconnex Knowledge Graph
+    url: https://graph.geoconnex.us
+    method: POST
+    headers:
+      - "Content-Type: application/sparql-query"
+      - "Accept: application/sparql-results+json"
+    body: |
+      ASK {
+        ?s ?p ?o
+      }
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime.geoconnex.us
+  cname: uptime.geoconnex.us
   logoUrl: https://reference.geoconnex.us/static/img/logo.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime
+  introTitle: "**Geoconnex Service Status**"
+  introMessage: >
+    This page provides real-time availability and historical uptime for the
+    Geoconnex platform, including the PID Service and Reference Feature Service.
   navbar:
     - title: Status
       href: /
