@@ -4,8 +4,8 @@ repo: uptime.geoconnex.us
 
 # Add your sites here
 sites:
-  - name: Geoconnex PID Service
-    url: https://geoconnex.us
+  - name: Geoconnex Persistent Identifier Service
+    url: https://pids.geoconnex.us
   - name: Geoconnex Reference Feature Service
     url: https://reference.geoconnex.us
 
