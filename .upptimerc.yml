@@ -5,12 +5,15 @@ repo: uptime.geoconnex.us
 # Add your sites here
 sites:
   - name: Geoconnex Persistent Identifier Service
+    slug: pid-service
     url: https://pids.geoconnex.us
     icon: https://yourls.org/assets/images/favicon.svg
   - name: Geoconnex Reference Feature Service
+    slug: feature-service
     url: https://reference.geoconnex.us/collections
     icon: https://pygeoapi.io/favicon.ico
   - name: Geoconnex Knowledge Graph
+    slug: knowledge graph
     url: https://graph.geoconnex.us
     method: POST
     headers:
