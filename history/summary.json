@@ -4,18 +4,20 @@
     "url": "https://pids.geoconnex.us",
     "icon": "https://yourls.org/assets/images/favicon.svg",
     "slug": "pid-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1994,
-    "timeDay": 2407,
-    "timeWeek": 2361,
-    "timeMonth": 1994,
-    "timeYear": 1994,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1940,
+    "timeDay": 1766,
+    "timeWeek": 2207,
+    "timeMonth": 1940,
+    "timeYear": 1940,
+    "dailyMinutesDown": {
+      "2026-07-21": 56
+    }
   },
   {
     "name": "Geoconnex Reference Feature Service",
