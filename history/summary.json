@@ -5,16 +5,16 @@
     "icon": "https://yourls.org/assets/images/favicon.svg",
     "slug": "pid-service",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 2022,
-    "timeDay": 2538,
-    "timeWeek": 2235,
-    "timeMonth": 2022,
-    "timeYear": 2022,
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 2068,
+    "timeDay": 2944,
+    "timeWeek": 2272,
+    "timeMonth": 2068,
+    "timeYear": 2068,
     "dailyMinutesDown": {
       "2026-07-21": 56
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 173,
-    "timeWeek": 231,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 218,
+    "timeDay": 550,
+    "timeWeek": 272,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 141,
+    "time": 138,
+    "timeDay": 169,
     "timeWeek": 133,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
