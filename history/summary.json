@@ -4,19 +4,20 @@
     "url": "https://pids.geoconnex.us",
     "icon": "https://yourls.org/assets/images/favicon.svg",
     "slug": "pid-service",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 2091,
-    "timeDay": 2549,
-    "timeWeek": 2333,
-    "timeMonth": 2091,
-    "timeYear": 2091,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 2090,
+    "timeDay": 2307,
+    "timeWeek": 2303,
+    "timeMonth": 2090,
+    "timeYear": 2090,
     "dailyMinutesDown": {
-      "2026-07-21": 56
+      "2026-07-21": 56,
+      "2026-07-26": 60
     }
   },
   {
