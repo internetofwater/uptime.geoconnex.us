@@ -6,7 +6,7 @@ repo: uptime.geoconnex.us
 sites:
   - name: Geoconnex Persistent Identifier Service
     slug: pid-service
-    url: https://pids.geoconnex.us
+    url: https://pids.geoconnex.us/sitemap.xml
     icon: https://yourls.org/assets/images/favicon.svg
   - name: Geoconnex Reference Feature Service
     slug: feature-service
