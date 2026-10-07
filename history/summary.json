@@ -26,18 +26,20 @@
     "url": "https://reference.geoconnex.us/collections",
     "icon": "https://pygeoapi.io/favicon.ico",
     "slug": "feature-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 678,
-    "timeWeek": 220,
-    "timeMonth": 345,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 245,
+    "timeDay": 416,
+    "timeWeek": 212,
+    "timeMonth": 339,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2026-10-07": 0
+    }
   },
   {
     "name": "Geoconnex Knowledge Graph",
