@@ -5,11 +5,11 @@
     "icon": "https://yourls.org/assets/images/favicon.svg",
     "slug": "pid-service",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 577,
     "timeDay": 0,
     "timeWeek": 0,
@@ -35,7 +35,7 @@
     "time": 247,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 247,
+    "timeMonth": 254,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-10-07": 436
@@ -55,7 +55,7 @@
     "time": 148,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 138,
+    "timeMonth": 141,
     "timeYear": 148,
     "dailyMinutesDown": {}
   }
